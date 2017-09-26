@@ -1,0 +1,23 @@
+# Links
+
+* https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html
+* https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded
+* https://speakerdeck.com/barnbarn/infrastructure-security-how-hard-could-it-be-right?slide=58
+* https://hashicorp.com/blog/nomad.html
+* https://github.com/dsingleton/deploy-lag-radiator
+* http://www.logicalincrements.com/peripherals/keyboard.html
+* https://imgur.com/a/FJGiw
+* https://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5
+* http://www.mitls.org/pages/attacks/SLOTH
+* https://youtu.be/1MRY6s7vm-0?t=1h36m30s
+* http://imgur.com/Clj6F9s
+* https://www.youtube.com/watch?v=RAxiiRPHS9k
+* http://i.imgur.com/kPF2Wta.gifv
+* http://i.imgur.com/ZmJftgF.jpg
+* https://capnproto.org/
+* http://www.algorist.com/
+* https://0xax.gitbooks.io/linux-insides/content/
+* https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+* http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
+* http://www.stilldrinking.org/programming-sucks
+* https://chris.beams.io/posts/git-commit/
