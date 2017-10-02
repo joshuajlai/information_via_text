@@ -21,3 +21,4 @@
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
 * http://www.stilldrinking.org/programming-sucks
 * https://chris.beams.io/posts/git-commit/
+* https://www.reddit.com/r/personalfinance/comments/73q1l6/stop_spending_money_on_food_buy_a_crockpot/
