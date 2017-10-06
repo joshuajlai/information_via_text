@@ -22,3 +22,6 @@
 * http://www.stilldrinking.org/programming-sucks
 * https://chris.beams.io/posts/git-commit/
 * https://www.reddit.com/r/personalfinance/comments/73q1l6/stop_spending_money_on_food_buy_a_crockpot/
+* https://www.infoq.com/articles/merging-devops-agile
+* https://medium.com/@JordiScrubbings/death-star-ii-a-project-management-case-study-7e9ce087cc08
+* http://www.djaa.com/principles-kanban-method-0
