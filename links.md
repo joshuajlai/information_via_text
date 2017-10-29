@@ -25,3 +25,5 @@
 * https://www.infoq.com/articles/merging-devops-agile
 * https://medium.com/@JordiScrubbings/death-star-ii-a-project-management-case-study-7e9ce087cc08
 * http://www.djaa.com/principles-kanban-method-0
+* http://www.brendangregg.com/usemethod.html
+* https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
