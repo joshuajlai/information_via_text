@@ -2,7 +2,7 @@
 * Restaurant
   * What's good
   * Yelp
-*Huge Tree Pastry
+* Huge Tree Pastry
   * Taiwanese Breakfast:
     * Black Rice Roll (Black Rice Fuan Tuan)
     * With pickle and egg
@@ -76,3 +76,12 @@
   * Fried Shrimp
   * Best fried shrimp I've ever had.
   * http://www.yelp.com/biz/h-salt-fish-and-chips-temple-city
+## Korean BBQ
+* Park's
+  * https://www.yelp.com/biz/parks-bbq-los-angeles
+* Kang Hodong Baekjong
+  * https://www.yelp.com/biz/kang-ho-dong-baekjeong-los-angeles-4
+* Yong Su San (Susan)
+  * https://www.yelp.com/biz/yong-su-san-restaurant-los-angeles-2
+* Hae Jang Chon
+  * https://www.yelp.com/biz/hae-jang-chon-korean-bbq-restaurant-los-angeles
