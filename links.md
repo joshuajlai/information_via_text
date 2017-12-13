@@ -28,3 +28,4 @@
 * http://www.brendangregg.com/usemethod.html
 * https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
 * https://martinfowler.com/articles/itsNotJustStandingUp.html
+* https://www.kevinlondon.com/
