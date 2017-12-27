@@ -34,3 +34,5 @@
    * systems level blog posts
 * https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
    * reminder on how to fix mac's outdated *nix commands
+* https://git-scm.com/doc
+   * how does git work?
