@@ -36,3 +36,5 @@
    * reminder on how to fix mac's outdated *nix commands
 * https://git-scm.com/doc
    * how does git work?
+* https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d
+   * ansible cheat sheet
