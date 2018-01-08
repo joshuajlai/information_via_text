@@ -89,7 +89,8 @@
   * Have not been yet but have heard good things
   * https://www.yelp.com/biz/duck-house-monterey-park
 
-## Korean BBQ
+## BBQ
+### Korean BBQ
 * Park's
   * https://www.yelp.com/biz/parks-bbq-los-angeles
 * Kang Hodong Baekjong
@@ -98,3 +99,17 @@
   * https://www.yelp.com/biz/yong-su-san-restaurant-los-angeles-2
 * Hae Jang Chon
   * https://www.yelp.com/biz/hae-jang-chon-korean-bbq-restaurant-los-angeles
+### Korean Seafood BBQ
+* Get Bbul
+   * Normal korean seafood bbq.
+   * Decent quantity for the price but quality in seafood is meh.
+   * A "Small" combo is enough for 3-4 people.
+   * https://www.yelp.com/biz/get-bbul-los-angeles
+
+
+### American BBQ
+
+### Uncategorized BBQ
+* Feng Mao Lamb Kebab
+   * Excellent chinese skewer place. Get the Lamb or the Beef.
+   * https://www.yelp.com/biz/feng-mao-lamb-kebab-los-angeles
