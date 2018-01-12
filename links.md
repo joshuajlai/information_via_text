@@ -40,3 +40,5 @@
    * ansible cheat sheet
 * https://explainshell.com/
    * shell explanation thingy
+* https://www.youtube.com/watch?v=p0O1VVqRSK0
+   * uncle bob professionalism talk
