@@ -42,3 +42,5 @@
    * shell explanation thingy
 * https://www.youtube.com/watch?v=p0O1VVqRSK0
    * uncle bob professionalism talk
+* https://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
+   * random ruby syntax help
