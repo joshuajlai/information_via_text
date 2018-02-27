@@ -44,3 +44,5 @@
    * uncle bob professionalism talk
 * https://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
    * random ruby syntax help
+* http://www.virtuouscode.com/2011/05/30/null-objects-and-falsiness/
+   * subject in link
