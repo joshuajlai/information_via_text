@@ -13,3 +13,9 @@
 #### Braised
 * http://thepioneerwoman.com/cooking/braised-short-ribs-heaven-on-a-plate/
 * Unattempted
+
+### Baking
+#### Keto Brownies
+* https://lowcarbyum.com/keto-brownies/
+* Unattempted
+* Submitted by https://github.com/catherinetcai
