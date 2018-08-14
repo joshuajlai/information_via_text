@@ -14,9 +14,14 @@
 * http://thepioneerwoman.com/cooking/braised-short-ribs-heaven-on-a-plate/
 * Unattempted
 
-
 ### Pork Shoulder
 ##### Cuban
 * https://www.seriouseats.com/recipes/2016/06/cuban-roast-pork-shoulder-mojo-recipe.html
 * Threw the foil and shoulder on a casserole pan for easier cleanup.
 * Heat on stovetop, microwaving dries it out and makes it terrible.
+
+### Baking
+#### Keto Brownies
+* https://lowcarbyum.com/keto-brownies/
+* Unattempted
+* Submitted by https://github.com/catherinetcai
