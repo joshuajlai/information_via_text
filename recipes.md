@@ -15,10 +15,15 @@
 * Unattempted
 
 ### Pork Shoulder
-##### Cuban
+#### Cuban
 * https://www.seriouseats.com/recipes/2016/06/cuban-roast-pork-shoulder-mojo-recipe.html
 * Threw the foil and shoulder on a casserole pan for easier cleanup.
 * Heat on stovetop, microwaving dries it out and makes it terrible.
+
+#### Korean BBQ Style
+* https://www.foodiewithfamily.com/slow-cooker-korean-style-barbecue-pork/
+* Works well, poking holes didn't get much garlic flavor into the meat. Be sure to use a lot of pork at once to keep the moisture up.
+* Didn't use the fruit juice since brown sugar is already pretty sweet.
 
 ### Baking
 #### Keto Brownies
