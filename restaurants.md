@@ -2,6 +2,16 @@
 * Restaurant
   * What's good
   * Yelp
+
+## Northern California
+### San Mateo Area
+* China Bee
+  * Stinky Tofu
+  * Green Beans
+  * Sesame Oil Noodles
+  * https://www.yelp.com/biz/china-bee-san-mateo
+
+## Southern California
 * Huge Tree Pastry
   * Taiwanese Breakfast:
     * Black Rice Roll (Black Rice Fuan Tuan)
