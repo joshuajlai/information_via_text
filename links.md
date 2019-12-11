@@ -1,27 +1,22 @@
 # Links
 
+## Talks
+* https://youtu.be/1MRY6s7vm-0?t=1h36m30s
+* https://www.youtube.com/watch?v=RAxiiRPHS9k
+* https://www.youtube.com/watch?v=p0O1VVqRSK0
+   * uncle bob professionalism talk
+
+## Papers
 * https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html
 * https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded
 * https://speakerdeck.com/barnbarn/infrastructure-security-how-hard-could-it-be-right?slide=58
-* https://hashicorp.com/blog/nomad.html
-* https://github.com/dsingleton/deploy-lag-radiator
-* http://www.logicalincrements.com/peripherals/keyboard.html
-* https://imgur.com/a/FJGiw
-* https://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5
-* http://www.mitls.org/pages/attacks/SLOTH
-* https://youtu.be/1MRY6s7vm-0?t=1h36m30s
-* http://imgur.com/Clj6F9s
-* https://www.youtube.com/watch?v=RAxiiRPHS9k
-* http://i.imgur.com/kPF2Wta.gifv
-* http://i.imgur.com/ZmJftgF.jpg
-* https://capnproto.org/
 * http://www.algorist.com/
+* http://www.mitls.org/pages/attacks/SLOTH
 * https://0xax.gitbooks.io/linux-insides/content/
 * https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 * http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
 * http://www.stilldrinking.org/programming-sucks
 * https://chris.beams.io/posts/git-commit/
-* https://www.reddit.com/r/personalfinance/comments/73q1l6/stop_spending_money_on_food_buy_a_crockpot/
 * https://www.infoq.com/articles/merging-devops-agile
 * https://medium.com/@JordiScrubbings/death-star-ii-a-project-management-case-study-7e9ce087cc08
 * http://www.djaa.com/principles-kanban-method-0
@@ -40,9 +35,17 @@
    * ansible cheat sheet
 * https://explainshell.com/
    * shell explanation thingy
-* https://www.youtube.com/watch?v=p0O1VVqRSK0
-   * uncle bob professionalism talk
 * https://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
    * random ruby syntax help
 * http://www.virtuouscode.com/2011/05/30/null-objects-and-falsiness/
    * subject in link
+
+## Interesting Projects
+* https://capnproto.org/
+* https://hashicorp.com/blog/nomad.html
+* https://github.com/dsingleton/deploy-lag-radiator
+* https://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5
+
+## Random Junk
+* http://www.logicalincrements.com/peripherals/keyboard.html
+* https://www.reddit.com/r/personalfinance/comments/73q1l6/stop_spending_money_on_food_buy_a_crockpot/
