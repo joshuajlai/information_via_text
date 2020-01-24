@@ -41,7 +41,7 @@
     * Egg noodle Pho
     * Broken Rice plates
   * http://www.yelp.com/biz/vietnam-house-san-gabriel
-* Din Tai Phong
+* Din Tai Fung
   * Juice Pork Dumplings
     * This is the second location, line moves faster than the first.
   * http://www.yelp.com/biz/din-tai-fung-arcadia-3
