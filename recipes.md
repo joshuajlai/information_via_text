@@ -41,3 +41,16 @@
 * https://lowcarbyum.com/keto-brownies/
 * Unattempted
 * Submitted by https://github.com/catherinetcai
+
+#### Lazy Leek Biscuits
+##### Instructions
+1. Buy pre-made refrigerated biscuit dough
+2. Buy a leek
+3. Wash and cuz the leak into small pieces, roughly half a cm squares
+4. Using a rolling pin, flatten biscuit dough into larger circles
+5. Sprinkle leek onto the of the biscuit dough
+6. Roll the bisuit dough into a tube
+7. Now roll the tube into itself to make it look like a snail's shell
+8. Place onto non-stick baking sheet
+9. Follow baking instructions of biscuit dough package, add 3-5 minutes depending on your oven
+10. Let cool before consumption
