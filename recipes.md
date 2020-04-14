@@ -36,6 +36,35 @@
 * Works well, poking holes didn't get much garlic flavor into the meat. Be sure to use a lot of pork at once to keep the moisture up.
 * Didn't use the fruit juice since brown sugar is already pretty sweet.
 
+### Ground Meat
+#### Mapo Tofu
+##### Instructions
+1 lb pork
+1 package medium firm tofu diced and drained
+1 medium shallot minced
+lee kum kee garlic chili sauce (https://www.target.com/p/lee-kum-kee-chili-garlic-sauce-8-oz/-/A-47090518)
+1 tsp light brown sugar
+soy sauce
+1 tbs corn starch
+2 cloves of garlic minced
+optional
+sesame oil
+cooking wine/sake
+green onion
+* heat oil in pan and saute shallots until soft but not browned
+* remove shallot from pan
+* add a bit more oil and add ground pork and cook til it's not raw
+* add garlic
+* add 2 tablespoons of chili sauce (adjust to your spice level)
+* add sugar
+* mix cornstarch with cold water to make slurry and add it to the pork
+* add tofu and mix
+* add splash of sake
+* add splash of sesame oil
+* add green onions
+#### Author
+* @ahhlin
+
 ### Baking
 #### Keto Brownies
 * https://lowcarbyum.com/keto-brownies/
