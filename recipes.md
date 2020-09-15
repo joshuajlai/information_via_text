@@ -36,6 +36,9 @@
 * Works well, poking holes didn't get much garlic flavor into the meat. Be sure to use a lot of pork at once to keep the moisture up.
 * Didn't use the fruit juice since brown sugar is already pretty sweet.
 
+### Braised
+
+
 ### Ground Meat
 #### Mapo Tofu
 ##### Instructions
@@ -65,6 +68,13 @@ green onion
 #### Author
 * @ahhlin
 
+### Chicken
+#### Brick Chicken
+
+#### JjimDak
+* https://seonkyounglongest.com/jjimdak-korean-braised-chicken/
+* Great recipe
+
 ### Baking
 #### Keto Brownies
 * https://lowcarbyum.com/keto-brownies/
@@ -83,3 +93,7 @@ green onion
 8. Place onto non-stick baking sheet
 9. Follow baking instructions of biscuit dough package, add 3-5 minutes depending on your oven
 10. Let cool before consumption
+
+#### Almond Shortbread Cookies
+* https://www.shiokmanrecipes.com/2020/01/10/almond-shortbread-cookies/
+* Turned out great!
