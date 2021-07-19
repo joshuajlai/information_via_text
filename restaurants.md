@@ -1,7 +1,5 @@
 # Restaurants
-* Restaurant
-  * What's good
-  * Yelp
+* DISCLAIMER: No restaurants on this list are worth more than a 20 min wait. Highly recommend to always call ahead.
 
 ## Northern California
 ### San Mateo Area
@@ -12,6 +10,8 @@
   * https://www.yelp.com/biz/china-bee-san-mateo
 
 ## Southern California
+### San Gabriel Valley
+#### Breakfast
 * Huge Tree Pastry
   * Taiwanese Breakfast:
     * Black Rice Roll (Black Rice Fuan Tuan)
@@ -19,9 +19,6 @@
     * Roast Beef Sandwich in crispy bun (Neero Sal-bing)
     * Leek Pancake
   * http://www.yelp.com/biz/huge-tree-pastry-monterey-park
-* Summer Rolls
-  * Vietnamese spring rolls
-  * http://www.yelp.com/biz/summer-rolls-rosemead
 * Delicious Food Corner
   * HK style breakfast:
     * brick toast
@@ -35,16 +32,14 @@
     * Roast Beef Sandwich in crispy bun (Neero Sal-bing)
     * Radish Pastry (Lo-Bo-Szi-Bing)
   * http://www.yelp.com/biz/four-sea-restaurant-san-gabriel
-* Vietnam House
-  * Vietnamese Food
-    * Normal Pho
-    * Egg noodle Pho
-    * Broken Rice plates
-  * http://www.yelp.com/biz/vietnam-house-san-gabriel
+
+#### Dumplings
 * Din Tai Fung
-  * Juice Pork Dumplings
-    * This is the second location, line moves faster than the first.
+  * Juicy Pork Dumplings
   * http://www.yelp.com/biz/din-tai-fung-arcadia-3
+  * Alternatives:
+     * https://www.yelp.com/biz/din-tai-fung-los-angeles
+
 * Mama Lu's
   * Boiled dumplings
   * Pan fried dumplings
@@ -56,24 +51,25 @@
   * Beef Roll
   * Pork Roll
   * http://www.yelp.com/biz/101-noodle-express-alhambra
+
+#### Vietnamese
+* Summer Rolls
+  * Vietnamese spring rolls
+  * http://www.yelp.com/biz/summer-rolls-rosemead
+* Vietnam House
+  * Vietnamese Food
+    * Normal Pho
+    * Egg noodle Pho
+    * Broken Rice plates
+  * http://www.yelp.com/biz/vietnam-house-san-gabriel
+
+#### Misc
 * Savoy Kitchen
   * Hainan chicken
   * http://www.yelp.com/biz/savoy-kitchen-alhambra
-* Old Country Cafe
-  * Taiwanese Snack foods
-  * Fried porkchop
-  * Fried chicken
-  * Stinky Tofu
-  * Ground beef and rice
-
-* Oyster noodles
-  * (Forgot the name, it's in the 99 ranch plaza off valley and del mar)
-  * Oyster noodle soup
-  * Fried chitlings
-  * Stinky Tofu
-
 * Tofu King
   * Stinky Tofu
+  * https://www.yelp.com/biz/tofu-king-arcadia 
 * Newport Seafood
   * Chinese style seafood
   * http://www.yelp.com/biz/newport-seafood-restaurant-san-gabriel-4
@@ -87,7 +83,7 @@
   * Best fried shrimp I've ever had.
   * http://www.yelp.com/biz/h-salt-fish-and-chips-temple-city
 
-### Peking Duck
+#### Peking Duck
 * Sam Woo BBQ
   * Classic HK chinese food. Not the best, not the worst.
   * https://www.yelp.com/biz/sam-woo-bbq-san-gabriel
@@ -99,7 +95,7 @@
   * Have not been yet but have heard good things
   * https://www.yelp.com/biz/duck-house-monterey-park
 
-### BBQ
+### Koreatown
 #### Korean BBQ
 * Park's
   * https://www.yelp.com/biz/parks-bbq-los-angeles
@@ -115,11 +111,54 @@
    * Decent quantity for the price but quality in seafood is meh.
    * A "Small" combo is enough for 3-4 people.
    * https://www.yelp.com/biz/get-bbul-los-angeles
-
-
-#### American BBQ
-
-#### Uncategorized BBQ
+#### Misc 
 * Feng Mao Lamb Kebab
    * Excellent chinese skewer place. Get the Lamb or the Beef.
    * https://www.yelp.com/biz/feng-mao-lamb-kebab-los-angeles
+
+## West LA
+### Santa Monica
+#### Misc
+* Demitasse
+   * COFFEE
+   * https://www.yelp.com/biz/demitasse-santa-monica-santa-monica
+* HiHo Cheeseburger
+   * Wagyu cheeseburgers
+   * On the pricy side but it's Santa Monica
+   * https://www.yelp.com/biz/hiho-cheeseburger-santa-monica
+* Vanilla Bake Shop
+   * Fancy mini-cupcakes
+   * https://www.yelp.com/biz/vanilla-bake-shop-santa-monica
+* KazuNori
+   * Fancy handrolls
+   * https://www.yelp.com/biz/kazunori-the-original-hand-roll-bar-santa-monica
+* Blue Daisy
+   * American Breakfast
+   * https://www.yelp.com/biz/blue-daisy-santa-monica
+
+### Sawtelle District
+#### Misc
+* Tsujita
+   * Ramen Shop
+   * https://www.yelp.com/biz/tsujita-la-artisan-noodle-los-angeles-2
+* Tsujita Annex
+   * Ramen Shop
+   * Has different flavors from main Tsujita
+   * https://www.yelp.com/biz/tsujita-la-artisan-noodle-annex-los-angeles-3
+* Daikokuya
+   * Ramen Shop
+   * https://www.yelp.com/biz/daikokuya-sawtelle-los-angeles
+
+### Culver City
+#### Misc
+* Lokal Sandwich Shop
+   * Great coffee and sandwiches
+   * https://www.yelp.com/biz/lokal-sandwich-shop-los-angeles
+* Simpang Asia
+   * Malaysian food
+   * https://www.yelp.com/biz/simpang-asia-los-angeles
+   * Haven't tried second branch closer to Santa Monica: https://www.yelp.com/biz/simpang-asia-venice
+* Honey's Kettle
+   * Fried Chicken
+   * https://www.yelp.com/biz/honeys-kettle-fried-chicken-culver-city
+
