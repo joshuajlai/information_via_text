@@ -39,6 +39,8 @@
    * random ruby syntax help
 * http://www.virtuouscode.com/2011/05/30/null-objects-and-falsiness/
    * subject in link
+* https://blog.coupler.io/gantt-chart-google-sheets/
+   * Making a Gantt chart in google sheets
 
 ## Interesting Projects
 * https://capnproto.org/
