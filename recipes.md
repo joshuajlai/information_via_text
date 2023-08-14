@@ -97,3 +97,7 @@ green onion
 #### Almond Shortbread Cookies
 * https://www.shiokmanrecipes.com/2020/01/10/almond-shortbread-cookies/
 * Turned out great!
+
+### Random
+#### Savory Vegetable Pancakes
+* https://www.seriouseats.com/easy-savory-vegetable-pancakes
