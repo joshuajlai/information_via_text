@@ -32,6 +32,9 @@
     * Roast Beef Sandwich in crispy bun (Neero Sal-bing)
     * Radish Pastry (Lo-Bo-Szi-Bing)
   * http://www.yelp.com/biz/four-sea-restaurant-san-gabriel
+* Yi Mei
+   * Top Taiwanese Breakfast
+   * https://www.yelp.com/biz/portos-bakery-and-cafe-glendale
 
 #### Dumplings
 * Din Tai Fung
@@ -39,7 +42,6 @@
   * http://www.yelp.com/biz/din-tai-fung-arcadia-3
   * Alternatives:
      * https://www.yelp.com/biz/din-tai-fung-los-angeles
-
 * Mama Lu's
   * Boiled dumplings
   * Pan fried dumplings
@@ -95,8 +97,8 @@
   * Have not been yet but have heard good things
   * https://www.yelp.com/biz/duck-house-monterey-park
 
-### Koreatown
-#### Korean BBQ
+## Koreatown
+### Korean BBQ
 * Park's
   * https://www.yelp.com/biz/parks-bbq-los-angeles
 * Kang Hodong Baekjong
@@ -105,16 +107,42 @@
   * https://www.yelp.com/biz/yong-su-san-restaurant-los-angeles-2
 * Hae Jang Chon
   * https://www.yelp.com/biz/hae-jang-chon-korean-bbq-restaurant-los-angeles
-#### Korean Seafood BBQ
+### Korean Seafood BBQ
 * Get Bbul
    * Normal korean seafood bbq.
    * Decent quantity for the price but quality in seafood is meh.
    * A "Small" combo is enough for 3-4 people.
    * https://www.yelp.com/biz/get-bbul-los-angeles
-#### Misc 
+### Misc 
 * Feng Mao Lamb Kebab
    * Excellent chinese skewer place. Get the Lamb or the Beef.
    * https://www.yelp.com/biz/feng-mao-lamb-kebab-los-angeles
+* Yangji Gamjatang
+   * Great, affordable pork neck stew
+   * https://www.yelp.com/biz/yangji-gamjatang-los-angeles-2
+* Dan Sung Sa
+   * Korean dive bar, amazing chicken wings
+   * https://www.yelp.com/biz/dan-sung-sa-los-angeles?osq=Dan+Sung+Sa
+* BCD Tofu House
+   * Classic tofu soup chain
+   * https://www.yelp.com/biz/bcd-tofu-house-los-angeles
+* Original Tommy's World
+   * Chili Burgers!
+   * https://www.yelp.com/biz/original-tommys-los-angeles-3
+
+## Los Feliz
+* Alcove Cafe & Bakery
+   * Brunch shop
+   * https://www.yelp.com/biz/alcove-cafe-and-bakery-los-angeles
+
+## Atwater Village / Glendale
+* Proof Bakery
+   * Baked goods and brunch items
+   * https://www.yelp.com/biz/proof-bakery-los-angeles
+* Porto's Bakery and Cafe
+   * Best non-asian bakery in LA?
+   * https://www.yelp.com/biz/portos-bakery-and-cafe-glendale
+
 
 ## West LA
 ### Santa Monica
