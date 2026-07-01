@@ -5,6 +5,10 @@
 * https://www.youtube.com/watch?v=RAxiiRPHS9k
 * https://www.youtube.com/watch?v=p0O1VVqRSK0
    * uncle bob professionalism talk
+* https://www.youtube.com/watch?v=ugkkza3vKbc
+   * Facebook SRE -> Production Engineering transition
+* https://www.youtube.com/watch?v=LcJKxPXYudE
+   * Interview with Matt Ranney
 
 ## Papers
 * https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html
